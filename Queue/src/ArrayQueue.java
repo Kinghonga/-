@@ -4,7 +4,6 @@ public class ArrayQueue<T> implements Quene<T>{
      * 数组队列
      */
 
-
     private Array<T> array;
 
     public ArrayQueue(int capacity){
