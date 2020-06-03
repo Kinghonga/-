@@ -3,11 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="deade047-f4f0-4367-9cdd-b36786af9bc6" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Array/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Array/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Array/src/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/src/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack/src/ArrayStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Stack/src/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack/src/Stack.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -181,12 +185,12 @@
       <workItem from="1591105626081" duration="20000" />
       <workItem from="1591108117472" duration="621000" />
       <workItem from="1591191147895" duration="3046000" />
-      <workItem from="1591195093284" duration="1799000" />
+      <workItem from="1591195093284" duration="2189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7089000" />
+    <option name="totallyTimeSpent" value="7479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
