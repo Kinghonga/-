@@ -1,7 +1,8 @@
 
 
 /**
- * leetcode 题目：有效的括号
+ * leetcode 题目：有效的括号（即括号要匹配）
+ *              例如：传入字符串“{（）}” 返回true  传入”（}{}）“ 返回fasle
  * 使用数据结构：栈
  */
 public class Solution {

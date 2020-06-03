@@ -4,10 +4,12 @@ public class ArrayStack<T> implements Stack<T>{
 
     Array<T> array;
 
+    //有参构造函数
     public ArrayStack(int capacity){
         array = new Array<>(capacity);
     }
 
+    //无参数构造函数
     public ArrayStack(){
         array = new Array<>();
     }

@@ -1,3 +1,7 @@
+/**
+ * 动态数组底层实现，可构造多种类型的数组
+ * @param <T>
+ */
 public class Array<T> {
 
     private T[] data;    //一个叫data的int型数组
