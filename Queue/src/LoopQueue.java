@@ -85,6 +85,8 @@ public class LoopQueue<T> implements Quene<T> {
         }
         res.append("] tail");
         return res.toString();
+
+
     }
 
 }
