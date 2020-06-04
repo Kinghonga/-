@@ -3,7 +3,7 @@ public class LoopQueue<T> implements Quene<T> {
     private T[] data;
 
 
-    private int front,tail;
+    private int front,tail;  //front头指针，若队列不为空，指向队头元素    tail尾指针，若队列不为空，指向队列尾元素的下一个位置
     private int size;       //循环队列的元素个数
 
     public LoopQueue(int capacity){

@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebe1a3ef-ccfe-4429-b9fb-35a95c5c3708" name="Default Changelist" comment="second commit">
-      <change beforePath="$PROJECT_DIR$/Queue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Queue/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue/src/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Queue/src/ArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ebe1a3ef-ccfe-4429-b9fb-35a95c5c3708" name="Default Changelist" comment="second commit" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591194972921</updated>
-      <workItem from="1591194974240" duration="3350000" />
+      <workItem from="1591194974240" duration="3420000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1591197356229</created>
@@ -152,7 +148,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3350000" />
+    <option name="totallyTimeSpent" value="3420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
@@ -162,13 +158,13 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.329653" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.23974763" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.23974763" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />

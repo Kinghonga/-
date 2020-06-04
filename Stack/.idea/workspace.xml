@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="92a14534-e07b-42a6-968e-9ac64d84502f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue/src/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue/src/ArrayQueue.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -207,15 +205,16 @@
       <workItem from="1590814643741" duration="1653000" />
       <workItem from="1590818063136" duration="3775000" />
       <workItem from="1590839076924" duration="680000" />
-      <workItem from="1591196880725" duration="1027000" />
+      <workItem from="1591196880725" duration="1098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7135000" />
+    <option name="totallyTimeSpent" value="7206000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16163142" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
