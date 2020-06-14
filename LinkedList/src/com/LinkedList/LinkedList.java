@@ -1,10 +1,12 @@
+package com.LinkedList;
+
 public class LinkedList<T> {
     /**
      * 单链表
      */
 
     //结点类
-    private class Node{
+    public  class Node{
         public T element;
         public Node next;
 
@@ -113,15 +115,46 @@ public class LinkedList<T> {
         while (cur !=null){
             if (element.equals(cur.element))
                 return true;
-                cur =cur.next;
+            cur =cur.next;
         }
         return false;
     }
 
+    //删除结点
+    public T  remove(int index){
+        if (index<0 || index>=size)
+            throw new IllegalArgumentException("remove fail. Illegal index");
+
+        Node prev = dummyHead;
+        for (int i=0;i<index;i++){
+            prev = prev.next;
+        }
+
+        Node retNode = prev.next;
+        prev.next = retNode.next;
+        retNode.next = null;
+        size--;
+
+        return  retNode.element;
+    }
+
+    //删除第一个元素
+    public T removeFirst(int index){
+        return remove(0);
+    }
+
+    //删除最后一个元素
+    public T removeLast(int index){
+        return remove(size-1);
+    }
+
+
+
+
     @Override
     public String toString(){
         StringBuilder sb = new StringBuilder();
-        sb.append("LinkedList:");
+        sb.append("com.LinkedList.LinkedList:");
 
         Node cur = dummyHead.next;
         while (cur !=null){

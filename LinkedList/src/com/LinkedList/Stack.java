@@ -1,3 +1,5 @@
+package com.LinkedList;
+
 public interface Stack<T> {
     /**
      * 栈：先进后出
