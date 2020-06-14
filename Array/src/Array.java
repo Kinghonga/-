@@ -4,7 +4,7 @@
  */
 public class Array<T> {
 
-    private T[] data;    //一个叫data的int型数组
+    private T[] data;    //一个叫data的T型数组
     private int size;     //数组当前元素个数
 
     //构造函数，传入数组的容量capacity构造Array
@@ -33,15 +33,6 @@ public class Array<T> {
         return size == 0;
     }
 
-    //在数组最后添加一个新的元素
-    public void addLast(T element){
-        add(size,element);
-    }
-
-    public void addFirst(T element){
-        add(0,element);
-    }
-
     //插入数据到指定索引位置
     public void add(int index,T element){
 
@@ -58,6 +49,17 @@ public class Array<T> {
         data[index] = element;
         size ++;
     }
+
+    //在数组最后添加一个新的元素
+    public void addLast(T element){
+        add(size,element);
+    }
+
+    public void addFirst(T element){
+        add(0,element);
+    }
+
+
 
 
 
