@@ -2,6 +2,7 @@ package com.LinkedList;
 
 public interface Stack<T> {
     /**
+     *
      * 栈：先进后出
      * 栈的接口包含：getSzie获取元素个数
      *              isEmpty判断是否为空
